@@ -2,4 +2,4 @@
 ColdPlay
 
 
-部分demo：http://htmlpreview.github.com/?https://github.com/huangguangfuYY/AAdemo/blob/master/index.html
+部分demo： https://huangguangfuYY.github.io/-AAdemo
